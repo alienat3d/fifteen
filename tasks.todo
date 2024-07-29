@@ -1,2 +1,7 @@
 Tasks:
-	- 
+	- Check favicon: https://realfavicongenerator.net/favicon_checker
+	- Make logic for moving squares
+	- Add animation of moving squares
+	- Add animation of winning
+	- Add randomizer, so every game is different
+	- Reset button should shuffle the squares
