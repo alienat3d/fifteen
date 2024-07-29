@@ -2,7 +2,7 @@
 <h3 align="center">[Game]</h3>
 
 ## Time spent in this project:
-* Repo: [![wakatime](https://wakatime.com/badge/github/alienat3d/glo-js-course-hard-homework.svg)](https://wakatime.com/badge/github/alienat3d/glo-js-course-hard-homework)
+* Repo: [![wakatime](https://wakatime.com/badge/user/f37ab12b-d024-4d9e-ae52-28518e6bcaf7/project/e8639c0b-edac-4eaf-a0ed-38ca8ea8692f.svg)](https://wakatime.com/badge/user/f37ab12b-d024-4d9e-ae52-28518e6bcaf7/project/e8639c0b-edac-4eaf-a0ed-38ca8ea8692f)
 
 ## My Contact E-Mail:
 
